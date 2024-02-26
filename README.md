@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shijie(Kirk) Han</h1>
+<h1 align="center">Hi 👋, I'm Shijie Han (韩世杰)</h1>
 <h3 align="center">NLP Student Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirkhan0920&label=Profile%20views&color=0e75b6&style=flat" alt="kirkhan0920" /> </p>
