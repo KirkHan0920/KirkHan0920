@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shijie Han (韩世杰)</h1>
-<h3 align="center">NLP Student Researcher</h3>
+<h3 align="center">PhD Student @ HKUST IEDA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirkhan0920&label=Profile%20views&color=0e75b6&style=flat" alt="kirkhan0920" /> </p>
 
-- 🔭 I’m a graduate student **@ColumbiaUniversity**
+- 🤝 I’m doing research on **AI for Business, Large Language Models and Big Data Analysis**
 
-- 👯 I’m looking to collaborate [@AI4Finance](http://www.tensorlet.org/projects/ai-in-finance/)
-
-- 🤝 I’m doing research on **Hallucination of LLM in Finance**
-
-- 📫 How to reach me **sh4460@columbia.edu**
+- 📫 How to reach me **kirk.han@connect.ust.hk**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ObrSa4kMGfnJ12aYXcZ5YU4xAUoHzl8P/view?usp=sharing](https://drive.google.com/file/d/1ObrSa4kMGfnJ12aYXcZ5YU4xAUoHzl8P/view?usp=sharing)
 
